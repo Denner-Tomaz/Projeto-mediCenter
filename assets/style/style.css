@@ -26,7 +26,7 @@ nav ul, nav li {list-style: none;
                 padding: 0;}
 
 nav ul {display: flex;
-        display: none;} /*display none para o menu mobile*/
+        } 
 
 nav a {display: block;
        text-decoration: none;
